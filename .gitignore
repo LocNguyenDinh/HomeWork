@@ -9,12 +9,15 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+.idea/
+out/
 
 # Package Files #
 *.jar
 *.war
 *.nar
 *.ear
+*.iml
 *.zip
 *.tar.gz
 *.rar
